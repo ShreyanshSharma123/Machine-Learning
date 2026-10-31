@@ -1,0 +1,17 @@
+{
+  "model": "LightGBM",
+  "selected_features": [
+    "precip_lag_1",
+    "d2m",
+    "hour_cos",
+    "precip_lag_3",
+    "hour_sin",
+    "pressure_tendency_1h",
+    "dewpoint_depression",
+    "u10",
+    "doy_sin",
+    "v10"
+  ],
+  "validation_rmse": 1.064489,
+  "timestamp_utc": "2026-10-31T10:50:26.096224+00:00"
+}
