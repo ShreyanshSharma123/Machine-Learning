@@ -1,0 +1,16 @@
+# Datasets (large scientific files >700 MB)
+datasets/
+*.nc
+*.hgt
+*.zip
+
+# Python cache & temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+catboost_info/
+
+# Environment
+.venv/
+env/
+venv/
